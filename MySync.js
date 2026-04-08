@@ -25,7 +25,7 @@
     // --- НАЛАШТУВАННЯ ---
     var MPC_PATH = 'C:\\Program Files\\MPC-BE\\mpc-be64.exe'; // Вкажіть правильний шлях до вашого плеєру!!!
     var NODE_EXE_PATH = 'C:\\Program Files\\nodejs\\node.exe'; // Вкажіть правильний шлях до вашого node.exe !!!
-    var PROXY_SCRIPT_PATH = 'X:\\Lampa\\SCRIPTS\\mpc-proxy.js'; // Вкажіть правильний шлях до вашого проксі !!!
+    var PROXY_SCRIPT_PATH = 'E:\\mpc-proxy.js'; // Вкажіть правильний шлях до вашого проксі !!!
     var PROXY_URL = 'http://localhost:8080';
     var MAX_FAILS = 1;
 
